@@ -11,3 +11,9 @@ $(BS_TARGET): $(BS_OBJECTS)
 
 .cpp.o:
 	$(CC) $(CFLAGS) $< -o $@
+
+clean:
+	del *.o
+
+full_clean:
+	del *.o *.exe
