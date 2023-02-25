@@ -2,7 +2,7 @@
 Breadth First Search (BFS) Algorithm
 Depth First Search (DFS) Algorithm
 Merge Sort Algorithm
-Quicksort Algorithm
+[+] Quicksort Algorithm
 Kruskal’s Algorithm
 Floyd Warshall Algorithm
 Dijkstra’s Algorithm
