@@ -1,7 +1,7 @@
 [+] Binary Search Algorithm
 Breadth First Search (BFS) Algorithm
 Depth First Search (DFS) Algorithm
-Merge Sort Algorithm
+[+] Merge Sort Algorithm
 [+] Quicksort Algorithm
 Kruskal’s Algorithm
 Floyd Warshall Algorithm
