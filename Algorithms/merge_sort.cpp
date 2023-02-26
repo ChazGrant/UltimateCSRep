@@ -1,8 +1,8 @@
 #define ARRAY_SIZE 5
 #include <iostream>
 
-void merge(int *, int, int, int);
-void mergeSort(int *, int, int);
+void merge(int *arr, int low, int high, int mid);
+void mergeSort(int *arr, int low, int high);
 
 int main()
 {

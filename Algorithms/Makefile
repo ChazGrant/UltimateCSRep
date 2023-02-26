@@ -5,7 +5,7 @@ BS_SOURCES=binary_search.cpp
 BS_OBJECTS=$(BS_SOURCES:.cpp=.o)
 
 MS_SOURCES=merge_sort.cpp
-MS_OBJECTS=$(BS_SOURCES:.cpp=.o)
+MS_OBJECTS=$(MS_SOURCES:.cpp=.o)
 
 QS_SOURCES=quick_sort.cpp
 QS_OBJECTS=$(QS_SOURCES:.cpp.=.o)
