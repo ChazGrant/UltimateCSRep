@@ -4,3 +4,4 @@ Queue
 Graph
 Hash Table
 Binary Search Tree
+Circular Buffer
